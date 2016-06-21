@@ -19,8 +19,9 @@ Cartridge-Vendor: ibm
 Description: "Openshift Cartridge for the WebSphere Liberty Profile."
 Version: '8.5.5'
 Vendor: IBM
-Cartridge-Version: 1.2.0
+Cartridge-Version: 1.3.0
 Compatible-Versions:
+- 1.2.0
 - 1.1.0
 - 1.0.0
 Scaling:
